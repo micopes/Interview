@@ -1,0 +1,6 @@
+조건부확률(Conditional Probability)
+- P(A|B) = P(A and B)/P(A) 
+- B가 일어났다는 가정 하에 A가 일어날 확률
+
+Bayes' Rule
+P(A|B)와 P(B|A)를 적절히..
